@@ -1,7 +1,7 @@
 # Whois
 Herramienta para escanear sitios web que contengan dominios .COM, .NET y .EDU
 
-### Requerimiento/s
+###### Requerimiento/s
 ```
 Python3
 • sudo apt-get install python3
