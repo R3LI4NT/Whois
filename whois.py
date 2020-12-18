@@ -1,4 +1,3 @@
-#!/usr/bin/python
 from colorama import Fore, Style
  
 import sys, os
